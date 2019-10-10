@@ -14,7 +14,7 @@ body {
     overflow: hidden;
 }
 
-.carousel .item img{width: 100%;}
+.carousel .item img{width: 90%;}
 
 .carousel .item {
     position: absolute;
